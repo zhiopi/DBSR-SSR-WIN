@@ -21,7 +21,7 @@ namespace Shadowsocks.Controller
 
         public const string Name = "菠萝云";
         public const string Copyright = "Copyright © DBSR 2018. Fork from Shadowsocks by clowwindy";
-        public const string Version = "1.0";
+        public const string Version = "2.0.0";
 #if !_DOTNET_4_0
         public const string NetVer = "2.0";
 #elif !_CONSOLE
