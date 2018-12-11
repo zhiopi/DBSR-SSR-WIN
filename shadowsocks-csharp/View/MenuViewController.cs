@@ -957,12 +957,12 @@ namespace Shadowsocks.View
 
 		private void OpenWiki_Click(object sender, EventArgs e)
 		{
-			Process.Start("https://github.com/zhiopi/DBSR-SSR-WIN/wiki/%E8%8F%A0%E8%90%9D%E6%B4%BE");
+			Process.Start("https://www.dbsr.cf");
 		}
 
 		private void FeedbackItem_Click(object sender, EventArgs e)
 		{
-			Process.Start("https://github.com/zhiopi/DBSR-SSR-WIN/issues/new");
+			Process.Start("https://www.dbsr.cf");
 		}
 
 		private void ResetPasswordItem_Click(object sender, EventArgs e)
